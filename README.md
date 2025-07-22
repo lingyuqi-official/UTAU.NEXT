@@ -1,3 +1,29 @@
+# 一份未完成的readme.md
+
+# 警告：项目处于前期开发阶段，当前不可用。
+
+⚠️ **注意：此仓库的项目目前完全不可用，处于积极开发的早期阶段。** ⚠️
+
+## 项目状态
+本项目当前处于前期开发阶段，所有功能都未经过测试，可能存在严重缺陷，**请勿将其用于任何生产环境或实际用途**。
+
+我们会在开发取得阶段性进展后，发布可用版本。在此之前，仓库内容仅用于开发讨论和协作。
+
+## 贡献与反馈
+- **问题反馈**：如果你发现了任何问题或有建议，请在本仓库内提交issue。
+- **请勿联系原仓库**：本仓库是原项目的独立衍生版本，请**不要向原仓库维护者或其社区提及本项目相关问题**。
+- **开发协作**：欢迎提交Pull Request，但请注意当前代码可能会频繁变动。
+
+## 关于原项目
+本仓库最初派生自OpenUTAU，但已进行独立开发。有关原项目的问题，请直接联系其维护者。
+
+## 预计可用时间
+目前无法确定具体的发布时间，请关注仓库更新以获取进展。
+
+![Project Status: WIP](https://img.shields.io/badge/Project%20Status-Work%20In%20Progress-red.svg)  
+![Current Version: Pre-Alpha](https://img.shields.io/badge/Version-Pre--Alpha-blueviolet.svg)  
+![Unstable](https://img.shields.io/badge/Status-Unstable-orange.svg)
+
 
 # OpenUtau
 
